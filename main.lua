@@ -25,7 +25,7 @@ warn("Anti Staff is now running")
     wait(5)
     end
     end)
-local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/scarsfromherpain/taxi-boss/main/ui.lua", true))()
+local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/cookies-lua/taxi-boss/refs/heads/main/ui.lua", true))()
 local example = library:CreateWindow({
   text = "Taxi Boss"
 })
